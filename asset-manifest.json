@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/room-condition-checker/static/css/main.f855e6bc.css",
+    "main.js": "/room-condition-checker/static/js/main.22381f87.js",
+    "index.html": "/room-condition-checker/index.html",
+    "main.f855e6bc.css.map": "/room-condition-checker/static/css/main.f855e6bc.css.map",
+    "main.22381f87.js.map": "/room-condition-checker/static/js/main.22381f87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.22381f87.js"
+  ]
+}
